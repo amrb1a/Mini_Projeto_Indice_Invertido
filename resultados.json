@@ -1,0 +1,48 @@
+{
+  "linhas": 3600,
+  "repeticoes": 3,
+  "consultas_base": [
+    "python",
+    "dados",
+    "algoritmo",
+    "estruturas",
+    "programação",
+    "conjuntos",
+    "hash",
+    "estudantes",
+    "análise",
+    "inexistente"
+  ],
+  "resultados": {
+    "1": {
+      "construcao_ms": 14.824,
+      "varredura_ms": 11.635,
+      "buscas_indice_ms": 0.042,
+      "construcao_e_buscas_ms": 14.866
+    },
+    "2": {
+      "construcao_ms": 14.17,
+      "varredura_ms": 22.759,
+      "buscas_indice_ms": 0.067,
+      "construcao_e_buscas_ms": 14.238
+    },
+    "10": {
+      "construcao_ms": 15.019,
+      "varredura_ms": 118.086,
+      "buscas_indice_ms": 0.199,
+      "construcao_e_buscas_ms": 15.244
+    },
+    "100": {
+      "construcao_ms": 18.361,
+      "varredura_ms": 1173.094,
+      "buscas_indice_ms": 1.605,
+      "construcao_e_buscas_ms": 19.543
+    },
+    "1000": {
+      "construcao_ms": 15.365,
+      "varredura_ms": 11870.62,
+      "buscas_indice_ms": 14.215,
+      "construcao_e_buscas_ms": 30.086
+    }
+  }
+}
