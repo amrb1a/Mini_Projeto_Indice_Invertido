@@ -55,6 +55,22 @@ python experimentos.py
 
 Esse último comando gera outro `resultados.json`. Os tempos dependem do computador. Foram usadas 3.600 linhas, as mesmas palavras nas duas buscas e três execuções em cada quantidade (1, 2, 10, 100 e 1.000 buscas). O resultado apresentado é a mediana.
 
-## Entrega no GitHub
 
-Crie um repositório e coloque nele os arquivos desta pasta (não o ZIP). O GitHub registra um commit quando os arquivos são enviados pela página. As mudanças seguintes devem ser registradas em novos commits, de acordo com as alterações realizadas.
+## Repositório do projeto
+
+O mini-projeto foi desenvolvido para a disciplina de
+Estruturas de Dados do IFAL – Campus Maceió.
+
+O código-fonte, os testes, os experimentos e o relatório
+estão disponíveis neste repositório.
+
+## Atualizações do projeto
+
+As alterações são registradas utilizando Git e GitHub.
+
+O histórico de commits permite acompanhar as correções
+e melhorias feitas no projeto.
+
+O programa pode ser executado pelo VS Code ou pelo
+terminal, desde que o Python 3 esteja instalado.
+  
